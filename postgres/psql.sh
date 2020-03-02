@@ -1,0 +1,1 @@
+psql -U root -d urdb -h $1
